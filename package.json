@@ -1,0 +1,26 @@
+{
+  "name": "channe-mssql-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs-extra": "^9.0.1",
+    "mssql": "^6.2.3",
+    "nodemailer": "^6.6.0",
+    "tedious": "^11.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}

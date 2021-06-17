@@ -1,0 +1,3 @@
+DELETE  [dbo].[COMPANY]
+WHERE [ID]=@ID
+

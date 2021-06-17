@@ -1,0 +1,3 @@
+DELETE  [dbo].[QUOTE]
+WHERE [ID]=@ID
+
